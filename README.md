@@ -27,14 +27,14 @@
 
 ## 🌌 Statistiques cosmiques
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudoIci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&icon_color=38bdae" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoIci&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Orlunia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&icon_color=38bdae" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlunia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae" height="170"/>
 </p>
 
 ---
 
 ## 🌠 Animation galactique
-![Snake animation](https://github.com/TonPseudoIci/TonPseudoIci/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Orlunia/Orlunia/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
