@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/ZzB8kSz/space-banner.gif" width="100%" alt="Espace animé">
 </p>
 
-<h1 align="center">🌌 Valentin Galvan | Explorateur du Code 🚀</h1>
+<h1 align="center">🌌 Valentin | Explorateur du Code 🚀</h1>
 
 <p align="center">
   <i>“Chaque commit est une étoile, chaque projet une planète en orbite.”</i>
