@@ -1,16 +1,45 @@
-## Hi there 👋
+<!-- 🚀 EN-TÊTE COSMIQUE -->
+<p align="center">
+  <img src="https://i.ibb.co/ZzB8kSz/space-banner.gif" width="100%" alt="Espace animé">
+</p>
 
-<!--
-**Orlunia/Orlunia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🌌 Valentin Galvan | Explorateur du Code 🚀</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>“Chaque commit est une étoile, chaque projet une planète en orbite.”</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛰️ À propos de moi
+- 👨‍🚀 Développeur en mission pour explorer l’univers du **web & jeux vidéo**.  
+- 💻 Actuellement en pleine formation pour devenir **développeur complet**.  
+- 🪐 Objectif : créer des mondes numériques aussi vastes que des galaxies.  
+
+---
+
+## 🚀 Technologies de mon vaisseau
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 🌌 Statistiques cosmiques
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudoIci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&icon_color=38bdae" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoIci&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae" height="170"/>
+</p>
+
+---
+
+## 🌠 Animation galactique
+![Snake animation](https://github.com/TonPseudoIci/TonPseudoIci/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🪐 Constellation de projets
+```ascii
+        *       .       *        .
+   .        🚀        *        .
+        *        .         *
